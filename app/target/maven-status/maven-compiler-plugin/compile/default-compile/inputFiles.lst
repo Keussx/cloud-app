@@ -1,0 +1,14 @@
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\constants\Constants.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\startup\StartUpWorker.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\response\AvailableIngredients.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\response\RecipesSaved.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\services\RecipeDatastoreWorker.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\services\RecipesAPISearchService.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\User.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\api\API.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\response\Ingredient.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\util\JsonFactory.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\response\AvailableAllergens.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\endpoint\response\AvailableCuisines.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\entities\datastore\Recipe.java
+C:\Users\Keus\Documents\MEGA\webapplication\app\src\main\java\myrecipes\app\services\IngredientsGeneratorWorker.java

@@ -1,0 +1,16 @@
+myrecipes\app\services\RecipeDatastoreWorker.class
+myrecipes\app\entities\endpoint\response\AvailableAllergens.class
+myrecipes\app\entities\endpoint\response\AvailableIngredients.class
+myrecipes\app\entities\datastore\Recipe.class
+myrecipes\app\entities\endpoint\response\Ingredient.class
+myrecipes\app\services\RecipesAPISearchService.class
+myrecipes\app\entities\endpoint\response\RecipesSaved.class
+myrecipes\app\entities\endpoint\User.class
+myrecipes\app\constants\Constants.class
+myrecipes\app\services\IngredientsGeneratorWorker.class
+myrecipes\app\util\JsonFactory$1.class
+myrecipes\app\entities\endpoint\response\AvailableCuisines.class
+myrecipes\app\util\JsonFactory.class
+myrecipes\app\entities\datastore\Recipe$Builder.class
+myrecipes\app\api\API.class
+myrecipes\app\startup\StartUpWorker.class
