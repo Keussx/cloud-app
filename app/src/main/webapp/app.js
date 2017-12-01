@@ -1,4 +1,4 @@
-/**
+/** TESTING PURPOSES
  * After the client library has loaded, this init() function is called. The
  */
 
@@ -7,14 +7,11 @@ var recipesSelection = [];
 
 function init() {
 
-	// rootpath will evaulate to either of these, depending on where the app is
-	// running:
-	// //localhost:8080/_ah/api
-	// //your-app-id/_ah/api
+	// rootpath will evaulate to either of these, depending on where the app i
 
 	var rootpath = "http://localhost:8080/_ah/api";
 
-	// Load the bookrecommenderApi API
+	// Load the API
 	gapi.client.load('ohmyrecipesAPI', 'v1', loadCallback, rootpath);
 }
 
