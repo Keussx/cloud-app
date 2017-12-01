@@ -1,14 +1,5 @@
-# Skeleton Google Cloud Endpoints Frameworks for App Engine using a Discovery Document
+# Cloud - Recipe App
 
-This generated sample provides a skeleton to get started with Cloud Endpoints
-Frameworks for App Engine using a **Discovery Document**. This sample contains
-comments of how to use the prior Endpoints Frameworks as well. For clarity, the
-prior Endpoints Frameworks and the new Endpoints Frameworks are denoted as
-Endpoints Frameworks v1.0 and Endpoints Frameworks v2.0 respectively.
-
-Google Cloud Endpoints Frameworks v2.0 provides new functionality which may
-require payment and uses an OpenAPI specification. The OpenAPI development
-process is explained [here][8] and a quickstart is provided [here][9].
 
 - [Google App Engine Standard][1]
 
