@@ -37,12 +37,12 @@ function enableButtons() {
 
 function sendGetRecipesRequest() {
 
-	//Create json string for ingredients
-	var jsonIngredients = '{"meat", "apples", "lemon"}';
+	//Create json array for ingredients
+	var ingredientsArray = '["meat", "apples", "lemon"]';
 
 	// create request after conversion to base64 string
 	var request = gapi.client.ohmyrecipesAPI.getRecipes({
-		'ingredients' : json
+		'ingredients' : ingredientsArray
 	});
 
 	request.execute(function(resp) {
