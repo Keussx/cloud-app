@@ -20,7 +20,7 @@ Before building the application install:
 
     Install google Datastore emulator using the guide (https://cloud.google.com/datastore/docs/tools/datastore-emulator)
 
-    Run the emulator and check with port it is running on.
+    Run the emulator and check which port it is running on.
     
 
 
