@@ -33,8 +33,10 @@ Before building the application install:
 
 
 ## 4. Build and Run the application locally at [http://localhost:8080] by using:
-
-    `mvn package clean; mvn appengine:run`
+   
+    In cmd/terminal, browse to app/ directory, and run the the command below to build + run app using Maven 
+   
+   `mvn package clean; mvn appengine:run`
 
 
 ## 5. Explore local server's API explorer by browsing to:
