@@ -2,8 +2,11 @@
 
 Before bulding the application u need:
  > Maven build management system
+ 
  > Google SDK installed
+ 
  > Google DataStore Emulator
+ 
  
  
  
@@ -11,6 +14,7 @@ Before bulding the application u need:
 
     run  "gcloud init" to enter google login details + select "ohmyrecipes" project
 
+ 
  
 2.Setup and run datastore emulator
 
@@ -31,7 +35,8 @@ Before bulding the application u need:
 
 4. Build and Run the application locally at [http://localhost:8080][5] by using:
 
-    `mvn clean appengine:run`
+    `mvn package clean; mvn appengine:run`
+
 
 5. Explore local server's API explorer by browsing to:
 
