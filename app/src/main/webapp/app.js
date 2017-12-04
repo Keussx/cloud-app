@@ -9,7 +9,7 @@ function init() {
 
 	// rootpath will evaulate to either of these, depending on where the app i
 
-	var rootpath = "http://localhost:8080/_ah/api";
+	var rootpath = "https://ohmyrecipes-1.appspot.com/_ah/api";
 
 	// Load the API
 	gapi.client.load('ohmyrecipesAPI', 'v1', loadCallback, rootpath);
