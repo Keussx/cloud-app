@@ -1,6 +1,6 @@
 # Cloud - Recipe App
 
-Before bulding the application u need:
+Before building the application install:
  > Maven build management system
  
  > Google SDK installed
