@@ -18,7 +18,7 @@ Before building the application install:
  
 ## 2.Setup and run datastore emulator
 
-    Install google Datastore emulator using the guide (https://cloud.google.com/datastore/docs/tools/datastore-emulator)
+    Install google Datastore emulator using the guide [Click me](https://cloud.google.com/datastore/docs/tools/datastore-emulator)
 
     Run the emulator and check with port it is running on.
     
@@ -32,7 +32,7 @@ Before building the application install:
 
 
 
-## 4. Build and Run the application locally at [http://localhost:8080][5] by using:
+## 4. Build and Run the application locally at [http://localhost:8080] by using:
 
     `mvn package clean; mvn appengine:run`
 
